@@ -1,0 +1,50 @@
+﻿@page
+@model WinterWhispers.Pages.MessageModel
+@{
+    ViewData["Title"] = "Meddelanden";
+}
+
+@* sidan används inte just nu *@
+
+@* @if (!User.Identity.IsAuthenticated)
+{
+    <p>Du behöver logga in för att skicka meddelanden.</p>
+}
+else
+{
+    <h3>Skriv meddelande</h3>
+    <form method="post">
+        <div class="form-group">
+            <label for="ReceiverId">Välj mottagare:</label>
+            <select asp-for="NewMessage.ReceiverId" class="form-control" asp-items="@(new SelectList(Model.Users, "Id", "UserName"))">
+                <option value="">Välj en användare</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label asp-for="NewMessage.Message">Meddelande</label>
+            <textarea asp-for="NewMessage.Message" class="form-control"></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary">Skicka</button>
+    </form>
+
+    <h3>Mottagna meddelanden</h3>
+    <div>
+        @if (Model.ReceivedMessages.Any())
+        {
+            @foreach (var message in Model.ReceivedMessages)
+            {
+                <div class="card mb-3">
+                    <div class="card-body">
+                        <p>@message.Message</p>
+                        <p><strong>Från:</strong> @(Model.SenderNames.ContainsKey(message.SenderId) ? Model.SenderNames[message.SenderId] : "Okänd användare")</p>
+                        <p><strong>Datum:</strong> @message.DateSent</p>
+                    </div>
+                </div>
+            }
+        }
+        else
+        {
+            <p>Inga mottagna meddelanden.</p>
+        }
+    </div>
+} *@

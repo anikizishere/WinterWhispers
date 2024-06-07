@@ -1,0 +1,377 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WinterWhispers.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WinterWhispers.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\img\\backpack-carousel.jpg",
+      "PackagePath": "staticwebassets\\img\\backpack-carousel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\img\\big-air-carousel.jpg",
+      "PackagePath": "staticwebassets\\img\\big-air-carousel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\img\\friends-carousel.jpg",
+      "PackagePath": "staticwebassets\\img\\friends-carousel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\img\\glasses-carousel.jpg",
+      "PackagePath": "staticwebassets\\img\\glasses-carousel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\img\\gloves.jpg",
+      "PackagePath": "staticwebassets\\img\\gloves.jpg"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\img\\jumping-snowboard-carousel.jpg",
+      "PackagePath": "staticwebassets\\img\\jumping-snowboard-carousel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\img\\lift-carousel.jpg",
+      "PackagePath": "staticwebassets\\img\\lift-carousel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\img\\ski-equipment.jpg",
+      "PackagePath": "staticwebassets\\img\\ski-equipment.jpg"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\img\\ski-helmet.jpg",
+      "PackagePath": "staticwebassets\\img\\ski-helmet.jpg"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\img\\ski-lift-carousel.jpg",
+      "PackagePath": "staticwebassets\\img\\ski-lift-carousel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\img\\skiers-hands-carousel.jpg",
+      "PackagePath": "staticwebassets\\img\\skiers-hands-carousel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\img\\skis_1-carousel.jpg",
+      "PackagePath": "staticwebassets\\img\\skis_1-carousel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\img\\tree-carousel.jpg",
+      "PackagePath": "staticwebassets\\img\\tree-carousel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\img\\woman-snowboarding-carousel.jpg",
+      "PackagePath": "staticwebassets\\img\\woman-snowboarding-carousel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\profileImage\\happy woman_1_74394.jpg",
+      "PackagePath": "staticwebassets\\profileImage\\happy woman_1_74394.jpg"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\userImages\\bride-groom_99860.jpg",
+      "PackagePath": "staticwebassets\\userImages\\bride-groom_99860.jpg"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\userImages\\coldwind_68684.jpg",
+      "PackagePath": "staticwebassets\\userImages\\coldwind_68684.jpg"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\userImages\\dolomites_26844.jpg",
+      "PackagePath": "staticwebassets\\userImages\\dolomites_26844.jpg"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\userImages\\finland_60292.jpg",
+      "PackagePath": "staticwebassets\\userImages\\finland_60292.jpg"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\userImages\\helmet_1_47128.jpg",
+      "PackagePath": "staticwebassets\\userImages\\helmet_1_47128.jpg"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\userImages\\skier_1.jpg89209",
+      "PackagePath": "staticwebassets\\userImages\\skier_1.jpg89209"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\userImages\\skier_2.jpg45730",
+      "PackagePath": "staticwebassets\\userImages\\skier_2.jpg45730"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\userImages\\skier_3_91415.jpg",
+      "PackagePath": "staticwebassets\\userImages\\skier_3_91415.jpg"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\userImages\\skiing_child_33586.jpg",
+      "PackagePath": "staticwebassets\\userImages\\skiing_child_33586.jpg"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\userImages\\snow-scooter_1.jpg37952",
+      "PackagePath": "staticwebassets\\userImages\\snow-scooter_1.jpg37952"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\userImages\\snow-scooter_12_58407.jpg",
+      "PackagePath": "staticwebassets\\userImages\\snow-scooter_12_58407.jpg"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\userImages\\winter_1_24270.jpg",
+      "PackagePath": "staticwebassets\\userImages\\winter_1_24270.jpg"
+    },
+    {
+      "Id": "C:\\Users\\annik\\OneDrive\\WinterWhispers\\WinterWhispers\\WinterWhispers\\wwwroot\\userImages\\wintry_35204.jpg",
+      "PackagePath": "staticwebassets\\userImages\\wintry_35204.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WinterWhispers.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WinterWhispers.props",
+      "PackagePath": "build\\WinterWhispers.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WinterWhispers.props",
+      "PackagePath": "buildMultiTargeting\\WinterWhispers.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WinterWhispers.props",
+      "PackagePath": "buildTransitive\\WinterWhispers.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

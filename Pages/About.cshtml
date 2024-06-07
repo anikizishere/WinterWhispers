@@ -1,0 +1,88 @@
+﻿@page
+@model WinterWhispers.Pages.AboutModel
+@{
+}
+
+<div class="container text-center">
+    <p>Den här webbplatsen använder cookies/kakor som samlar in vissa uppgifter om dig. Läs mer i vår <a href="./Privacy">Integritetspolicy</a>.</p>
+
+    <!-- Carousel -->
+    <div id="demo" class="carousel slide" data-bs-ride="carousel">
+        <!-- Indicators/dots -->
+        <div class="carousel-indicators">
+            <button type="button" data-bs-target="#demo" data-bs-slide-to="0" class="active"></button>
+            <button type="button" data-bs-target="#demo" data-bs-slide-to="1"></button>
+            <button type="button" data-bs-target="#demo" data-bs-slide-to="2"></button>
+        </div>
+
+        <!-- The slideshow/carousel -->
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="~/img/backpack-carousel.jpg" alt="Skiers" class="d-block w-100">
+            </div>
+            <div class="carousel-item">
+                <img src="~/img/jumping-snowboard-carousel.jpg" alt="Snowboard" class="d-block w-100">
+            </div>
+            <div class="carousel-item">
+                <img src="~/img/tree-carousel.jpg" alt="Snowboard" class="d-block w-100">
+            </div>
+        </div>
+
+        <!-- Left and right controls/icons -->
+        <button class="carousel-control-prev" type="button" data-bs-target="#demo" data-bs-slide="prev">
+            <span class="carousel-control-prev-icon"></span>
+        </button>
+        <button class="carousel-control-next" type="button" data-bs-target="#demo" data-bs-slide="next">
+            <span class="carousel-control-next-icon"></span>
+        </button>
+    </div>
+
+   
+    </br>
+    <h1 class="display-4">Om Winter Whispers </h1>    
+
+    <div style="text-align: left;">
+         <h4>Här kan du:</h4>
+
+        <ul>
+            <li><strong>Utforska resmål:</strong> Upptäck nya och spännande skidorter runt om i världen. Dela dina erfarenheter och få tips om de bästa pisterna och boendena.</li>
+            <li><strong>Diskutera utrustning:</strong> Från skidor till hjälmar, här kan du fråga om råd, ge rekommendationer och hålla dig uppdaterad med de senaste innovationerna inom skidutrustning.</li>
+            <li><strong>Utveckla tekniker:</strong> Dela dina tekniktips och lär dig nya sätt att förbättra din åkning genom våra användardrivna diskussioner och guider.</li>
+            <li><strong>Dela foton och filmer:</strong> Visa upp dina senaste åk genom att dela foton och filmer. Inspirera andra och få feedback på din teknik.</li>
+        </ul>
+
+        <h4>Forumregler:</h4>
+
+        <p>För att alla ska känna sig välkomna och för att vi ska kunna hålla en konstruktiv och trevlig ton, är det viktigt att alla följer våra regler, annars kan du komma att bli avstängd.</p>
+
+        <ol>
+            <li><strong>Inga svordomar:</strong> Vi strävar efter att hålla diskussionerna rena och respektfulla. Svordomar och olämpligt språk är inte tillåtna.</li>
+            <li><strong>Respektfull kommunikation:</strong> Respektera andra medlemmars åsikter och erfarenheter. Oenighet är naturligt, men personliga angrepp tolereras inte.</li>
+            <li><strong>Dela med omsorg:</strong> När du delar bilder och videor, se till att du har rättigheterna att göra det och att innehållet är lämpligt för en allmän publik.</li>
+            <li><strong>Följ reglerna:</strong> Medlemmar som inte följer dessa regler kan varnas eller, i allvarligare fall, stängas av från forumet.</li>
+        </ol>
+
+        <p>Vi ser fram emot att höra om dina äventyr och diskussioner. Låt säsongen börja!</p>
+    </div>
+
+    <div class="row">
+        <div class="col-4">
+            <p>Testannons: Skidhjälmar</p>
+            <a href="https://www.uvex-sports.com/en/wintersports/ski-helmets" target="_blank">
+                <img src="~/img/ski-helmet.jpg" class="img-fluid" alt="Ski Helmet">
+            </a>
+        </div>
+        <div class="col-4">
+            <p>Testannons: Skidvantar</p>
+            <a href="https://www.skistore.se/" target="_blank">
+                <img src="~/img/gloves.jpg" class="img-fluid" alt="Gloves">
+            </a>
+        </div>
+        <div class="col-4">
+            <p>Testannons: Skidutrustning</p>
+            <a href="https://www.mardosport.se/" target="_blank">
+                <img src="~/img/ski-equipment.jpg" class="img-fluid" alt="Ski Equipment">
+            </a>
+        </div>
+    </div>
+</div>

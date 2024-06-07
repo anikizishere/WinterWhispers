@@ -1,0 +1,15 @@
+﻿@page
+@model WinterWhispers.Areas.Identity.Pages.Account.Manage.ProfileImageModel
+@{
+	ViewData["Title"] = "Ändra profilbild";
+
+}
+
+<h3>@ViewData["Title"]</h3>
+<form method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label for="profileImage">Ladda upp</label>
+        <input type="file" class="form-control" id="profileImage" name="ProfileImage" />
+    </div>
+    <button type="submit" class="btn btn-primary">Spara</button>
+</form>

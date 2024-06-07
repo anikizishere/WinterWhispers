@@ -1,0 +1,100 @@
+﻿@page
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<Areas.Identity.Data.WinterWhispersUser> SignInManager
+@inject UserManager<Areas.Identity.Data.WinterWhispersUser> UserManager
+@model WinterWhispers.Pages.EquipementModel
+@{
+    var user = await UserManager.GetUserAsync(User);
+}
+
+@* SIDAN ANVÄNDS EJ! *@
+
+@* Karusell *@
+<div id="demo" class="carousel slide" data-bs-ride="carousel">
+
+     @* Indikatorer/prickar *@
+    <div class="carousel-indicators">
+        <button type="button" data-bs-target="#demo" data-bs-slide-to="0" class="active"></button>
+        <button type="button" data-bs-target="#demo" data-bs-slide-to="1"></button>
+        <button type="button" data-bs-target="#demo" data-bs-slide-to="2"></button>
+    </div>
+
+     @* Bildspelet/karusellen *@ 
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="~/img/skis_1-carousel.jpg" alt="Skiers" class="d-block w-100">
+        </div>
+        <div class="carousel-item">
+            <img src="~/img/big-air-carousel.jpg" alt="Snowboard" class="d-block w-100">
+        </div>
+        <div class="carousel-item">
+            <img src="~/img/jumping-snowboard-carousel.jpg" alt="Snowboard" class="d-block w-100">
+        </div>
+    </div>
+
+    @* Vänster och höger kontroller/ikoner *@
+    <button class="carousel-control-prev" type="button" data-bs-target="#demo" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon"></span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#demo" data-bs-slide="next">
+        <span class="carousel-control-next-icon"></span>
+    </button>
+</div>
+
+<h1>Ämne: Utrustning</h1>
+
+
+
+<div class="row">
+    @if (Model.Forums != null)
+    {
+        @foreach (var forum in Model.Forums)
+        {
+            <div class="card m-2" style="width: 18rem">
+                <img class="card-img-top" src="~/userImages/@forum.Image" />
+                <div class="card-body">
+                    <h5 class="card-title">@forum.Header</h5>
+                    <p class="card-text">@forum.Text</p>
+                    @if (user != null && user.Id == forum.UserId)
+                    {
+                        <a asp-route-deleteId="@forum.Id" class="btn btn-primary">Ta bort</a>
+                    }
+                </div>
+                <p class="card-footer">@forum.Date</p>
+
+            </div>
+
+        }
+    }
+
+
+
+@if (SignInManager.IsSignedIn(User))
+{
+    <form method="post" enctype="multipart/form-data">
+        @* skapa nytt inlägg *@
+        <label asp-for="Forum.Header">Rubrik</label> @* hämtar property header *@
+        <input asp-for="Forum.Header"></input>
+        
+        @* ska inte kategori "Topic" vara här? *@
+
+        <br />
+        <label asp-for="Forum.Text">Skriv inlägg</label>
+    
+        <br />
+        <textarea asp-for="Forum.Text" cols="40" rows="5"></textarea>
+
+        <br />
+        <label asp-for="Forum.Image">Ladda upp bild</label>
+    
+        <br />
+        <input type="file" name="UplodedImage"></input>
+    
+        <br />
+        <br />
+        <input type="submit" class="btn btn-success" value="Publicera inlägg"></input> @* btn står för button *@
+
+
+
+    </form>
+}

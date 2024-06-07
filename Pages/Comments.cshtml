@@ -1,0 +1,48 @@
+﻿@page "{id:int}"
+@using Microsoft.AspNetCore.Identity
+@inject SignInManager<Areas.Identity.Data.WinterWhispersUser> SignInManager
+@inject UserManager<Areas.Identity.Data.WinterWhispersUser> UserManager
+@model WinterWhispers.Pages.CommentsModel
+@{
+}
+
+@* denna sida används ej just nu *@
+
+<div class="container">
+    <div class="card">
+        <div class="card-body">
+            <h4>@Model.Post.Header</h4>
+            <p>@Model.Post.Text</p>
+            <p>@Model.Post.User.FirstName @Model.Post.User.LastName</p>
+            <p>Publicerat: @Model.Post.Date</p>
+        </div>
+    </div>
+    <hr />
+    <h4>Kommentarer</h4>
+    <div>
+        @foreach (var comment in Model.Comments)
+        {
+            <div class="card mb-3">
+                <div class="card-body">
+                    <p>@comment.Text</p>
+                    <p>@comment.UserId</p> 
+                    <p>@comment.Date</p>
+                </div>
+            </div>
+        }
+    </div>
+    @if (SignInManager.IsSignedIn(User))
+    {
+        <form method="post">
+            <input type="hidden" name="postId" value="@Model.Post.Id" />
+            <div class="form-group">
+                <textarea asp-for="NewComment.Text" class="form-control mb-2" placeholder="Skriv en kommentar"></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Kommentera</button>
+        </form>
+    }
+    else
+    {
+        <p>Du måste vara inloggad för att kommentera.</p>
+    }
+</div>

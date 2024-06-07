@@ -1,0 +1,52 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Profil";
+    ViewData["ActivePage"] = ManageNavPages.Index;
+}
+
+<h3>@ViewData["Title"]</h3>
+
+<partial name="_StatusMessage" for="StatusMessage" />
+<div class="row">
+    <div class="col-md-6">
+        <form id="profile-form" method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+            <div class="form-floating mb-3">
+                <input asp-for="Username" class="form-control" placeholder="Please choose your username." disabled />
+                <label asp-for="Username" class="form-label"></label>
+            </div>
+            <div class="form-floating mb-3">
+                <input asp-for="Input.PhoneNumber" class="form-control" placeholder="Please enter your phone number."/>
+                <label asp-for="Input.PhoneNumber" class="form-label"></label>
+                <span asp-validation-for="Input.PhoneNumber" class="text-danger"></span>
+            </div>
+            <button id="update-profile-button" type="submit" class="w-100 btn btn-lg btn-primary">Spara</button>
+        </form>
+    </div>
+</div>
+<br/>
+
+<h3>Ladda upp en profilbild</h3>
+<form method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label for="profileImage">Ladda upp</label>
+        <input type="file" class="form-control" id="profileImage" name="ProfileImage" />
+    </div>
+    <button type="submit" class="btn btn-primary">Spara</button>
+</form>
+
+@if (Model.ProfileImagePath != null)
+{
+    <div>
+        <h3>Nuvarande Profilbild</h3>
+        <img src="@Model.ProfileImagePath" alt="Profilbild" style="width:200px; height:200px;" />
+        <form method="post" asp-page-handler="DeleteImage">
+            <button type="submit" class="btn btn-danger">Ta bort bild</button>
+        </form>
+    </div>
+}
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
